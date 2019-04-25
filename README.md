@@ -1,6 +1,6 @@
-# Vimba Jetson
+# Vimba
 
-Packages and configurations to run a Vimba publisher node on a Jetson TX2
+Packages and configurations to run a Vimba publisher node. Includes correctly running on a Jetson TX2
 
 ## Setup
 
